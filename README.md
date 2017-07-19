@@ -1,2 +1,2 @@
 # TVScrollView
-App demonstates effect of hiding/showing navigation bar when user swipes down/up a UIScrollView
+A sample app demonstating effect of hiding/showing navigation bar when user swipes down/up a UIScrollView
